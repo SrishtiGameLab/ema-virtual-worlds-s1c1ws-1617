@@ -1,5 +1,7 @@
 from msvcrt import getch, getche
 
+isRunning = True
+
 def move_up():
 	# print "up"
 
@@ -16,6 +18,7 @@ def select():
 	#print "sel"
 
 def escape():
+    isRunning = False
 	#print "escape"
 
 def update_input:
@@ -34,3 +37,6 @@ def update_input:
         	move_left()
         elif key == 77: #Right arrow
         	move_right()
+
+while isRunning:
+    update_input()

@@ -170,3 +170,33 @@
 2016-08-30 14:56:04,338 - bacon - INFO - GL_SHADING_LANGUAGE_VERSION: OpenGL ES GLSL ES 1.00 (ANGLE 1.2.0.2431)
 2016-08-30 14:56:04,338 - bacon - INFO - GL_EXTENSIONS: GL_OES_element_index_uint GL_OES_packed_depth_stencil GL_OES_get_program_binary GL_OES_rgb8_rgba8 GL_OES_standard_derivatives GL_OES_texture_half_float GL_OES_texture_half_float_linear GL_OES_texture_float GL_OES_texture_float_linear GL_OES_texture_npot GL_EXT_occlusion_query_boolean GL_EXT_read_format_bgra GL_EXT_robustness GL_EXT_texture_compression_dxt1 GL_EXT_texture_filter_anisotropic GL_EXT_texture_format_BGRA8888 GL_EXT_draw_buffers GL_EXT_texture_storage GL_EXT_frag_depth GL_ANGLE_depth_texture GL_ANGLE_framebuffer_blit GL_ANGLE_framebuffer_multisample GL_ANGLE_instanced_arrays GL_ANGLE_pack_reverse_row_order GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ANGLE_texture_usage GL_ANGLE_translated_shader_source GL_NV_fence
 2016-08-30 14:56:04,339 - bacon - INFO - Window size changed to 1536x864
+2016-09-08 12:12:01,457 - bacon - INFO - Writing log file at C:\Users\Yadu\Desktop\ema-virtual-worlds-s1c1ws-1617\Yadu\Bacon\bacon.log
+2016-09-08 12:12:03,242 - bacon - INFO - Bacon 0.3.1
+2016-09-08 12:12:04,025 - bacon - INFO - Windows 6.2.9200 
+2016-09-08 12:12:04,025 - bacon - INFO - Architecture: x64
+2016-09-08 12:12:04,025 - bacon - INFO - Number of processors: 8
+2016-09-08 12:12:04,237 - bacon - INFO - GL_VENDOR: Google Inc.
+2016-09-08 12:12:04,237 - bacon - INFO - GL_RENDERER: ANGLE (Intel(R) HD Graphics 4600 Direct3D11 vs_5_0 ps_5_0)
+2016-09-08 12:12:04,237 - bacon - INFO - GL_SHADING_LANGUAGE_VERSION: OpenGL ES GLSL ES 1.00 (ANGLE 1.2.0.2431)
+2016-09-08 12:12:04,237 - bacon - INFO - GL_EXTENSIONS: GL_OES_element_index_uint GL_OES_packed_depth_stencil GL_OES_get_program_binary GL_OES_rgb8_rgba8 GL_OES_standard_derivatives GL_OES_texture_half_float GL_OES_texture_half_float_linear GL_OES_texture_float GL_OES_texture_float_linear GL_OES_texture_npot GL_EXT_occlusion_query_boolean GL_EXT_read_format_bgra GL_EXT_robustness GL_EXT_texture_compression_dxt1 GL_EXT_texture_filter_anisotropic GL_EXT_texture_format_BGRA8888 GL_EXT_draw_buffers GL_EXT_texture_storage GL_EXT_frag_depth GL_ANGLE_depth_texture GL_ANGLE_framebuffer_blit GL_ANGLE_framebuffer_multisample GL_ANGLE_instanced_arrays GL_ANGLE_pack_reverse_row_order GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ANGLE_texture_usage GL_ANGLE_translated_shader_source GL_NV_fence
+2016-09-08 12:12:04,299 - bacon - INFO - Window size changed to 800x600
+2016-09-08 12:12:15,815 - bacon - INFO - Writing log file at C:\Users\Yadu\Desktop\ema-virtual-worlds-s1c1ws-1617\Yadu\Bacon\bacon.log
+2016-09-08 12:12:15,918 - bacon - INFO - Bacon 0.3.1
+2016-09-08 12:12:15,967 - bacon - INFO - Windows 6.2.9200 
+2016-09-08 12:12:15,967 - bacon - INFO - Architecture: x64
+2016-09-08 12:12:15,967 - bacon - INFO - Number of processors: 8
+2016-09-08 12:12:16,055 - bacon - INFO - GL_VENDOR: Google Inc.
+2016-09-08 12:12:16,055 - bacon - INFO - GL_RENDERER: ANGLE (Intel(R) HD Graphics 4600 Direct3D11 vs_5_0 ps_5_0)
+2016-09-08 12:12:16,055 - bacon - INFO - GL_SHADING_LANGUAGE_VERSION: OpenGL ES GLSL ES 1.00 (ANGLE 1.2.0.2431)
+2016-09-08 12:12:16,055 - bacon - INFO - GL_EXTENSIONS: GL_OES_element_index_uint GL_OES_packed_depth_stencil GL_OES_get_program_binary GL_OES_rgb8_rgba8 GL_OES_standard_derivatives GL_OES_texture_half_float GL_OES_texture_half_float_linear GL_OES_texture_float GL_OES_texture_float_linear GL_OES_texture_npot GL_EXT_occlusion_query_boolean GL_EXT_read_format_bgra GL_EXT_robustness GL_EXT_texture_compression_dxt1 GL_EXT_texture_filter_anisotropic GL_EXT_texture_format_BGRA8888 GL_EXT_draw_buffers GL_EXT_texture_storage GL_EXT_frag_depth GL_ANGLE_depth_texture GL_ANGLE_framebuffer_blit GL_ANGLE_framebuffer_multisample GL_ANGLE_instanced_arrays GL_ANGLE_pack_reverse_row_order GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ANGLE_texture_usage GL_ANGLE_translated_shader_source GL_NV_fence
+2016-09-08 12:12:16,072 - bacon - INFO - Window size changed to 800x600
+2016-09-08 12:14:01,969 - bacon - INFO - Writing log file at C:\Users\Yadu\Desktop\ema-virtual-worlds-s1c1ws-1617\Yadu\Bacon\bacon.log
+2016-09-08 12:14:02,036 - bacon - INFO - Bacon 0.3.1
+2016-09-08 12:14:02,084 - bacon - INFO - Windows 6.2.9200 
+2016-09-08 12:14:02,084 - bacon - INFO - Architecture: x64
+2016-09-08 12:14:02,084 - bacon - INFO - Number of processors: 8
+2016-09-08 12:14:02,137 - bacon - INFO - GL_VENDOR: Google Inc.
+2016-09-08 12:14:02,138 - bacon - INFO - GL_RENDERER: ANGLE (Intel(R) HD Graphics 4600 Direct3D11 vs_5_0 ps_5_0)
+2016-09-08 12:14:02,138 - bacon - INFO - GL_SHADING_LANGUAGE_VERSION: OpenGL ES GLSL ES 1.00 (ANGLE 1.2.0.2431)
+2016-09-08 12:14:02,138 - bacon - INFO - GL_EXTENSIONS: GL_OES_element_index_uint GL_OES_packed_depth_stencil GL_OES_get_program_binary GL_OES_rgb8_rgba8 GL_OES_standard_derivatives GL_OES_texture_half_float GL_OES_texture_half_float_linear GL_OES_texture_float GL_OES_texture_float_linear GL_OES_texture_npot GL_EXT_occlusion_query_boolean GL_EXT_read_format_bgra GL_EXT_robustness GL_EXT_texture_compression_dxt1 GL_EXT_texture_filter_anisotropic GL_EXT_texture_format_BGRA8888 GL_EXT_draw_buffers GL_EXT_texture_storage GL_EXT_frag_depth GL_ANGLE_depth_texture GL_ANGLE_framebuffer_blit GL_ANGLE_framebuffer_multisample GL_ANGLE_instanced_arrays GL_ANGLE_pack_reverse_row_order GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ANGLE_texture_usage GL_ANGLE_translated_shader_source GL_NV_fence
+2016-09-08 12:14:02,154 - bacon - INFO - Window size changed to 800x600

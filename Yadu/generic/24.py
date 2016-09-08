@@ -11,7 +11,7 @@ def set_bg_color():
 	# set bg color if possible to blue!
 	if(os.name == 'nt'):
 		try:
-			os.system('color 1f')
+			os.system('color 1f') # 1 = blue, f = bright white - via: http://ss64.com/nt/color.html
 		except:
 			pass 
 	elif(os.name == 'posix'):

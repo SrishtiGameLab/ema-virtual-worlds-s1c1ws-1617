@@ -17,9 +17,10 @@ class Game(bacon.Game):
 		bacon.draw_image(kitten, self.offset_x, self.offset_y)
 
 		bacon.draw_string(font, message, 30, 60)
-
+		'''
 		self.offset_x += bacon.mouse.x/100
 		self.offset_y += bacon.mouse.y/100
+		'''
 
 	def on_mouse_button(self, button, pressed):
 		print('bacon.MouseButtons.%s was %s' % (bacon.MouseButtons.tostring(button), 'pressed' if pressed else 'released'))
