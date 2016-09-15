@@ -256,10 +256,6 @@ def show_scene_setup():
 
 	setup_active = True
 	while(setup_active):
-		update_ship_position(grid_player, player_sub)
-		update_ship_position(grid_player, player_destroyer)
-		update_ship_position(grid_player, player_carrier)
-		draw_grid(grid_player)
 		update_input()
 
 	# temp!
