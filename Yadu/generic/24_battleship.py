@@ -1,3 +1,7 @@
+'''
+battleship
+'''
+
 import os
 import sys
 import colorama
@@ -159,18 +163,34 @@ def get_user_selection():
 
 def move_up():
 	# print "up"
+	update_ship_position(grid_player, player_sub)
+	update_ship_position(grid_player, player_destroyer)
+	update_ship_position(grid_player, player_carrier)
+	draw_grid(grid_player)
 	pass
 
 def move_down():
 	# print "Down"
+	update_ship_position(grid_player, player_sub)
+	update_ship_position(grid_player, player_destroyer)
+	update_ship_position(grid_player, player_carrier)
+	draw_grid(grid_player)
 	pass
 
 def move_left():
 	# print "Left"
+	update_ship_position(grid_player, player_sub)
+	update_ship_position(grid_player, player_destroyer)
+	update_ship_position(grid_player, player_carrier)
+	draw_grid(grid_player)
 	pass
 
 def move_right():
 	global setup_active
+	update_ship_position(grid_player, player_sub)
+	update_ship_position(grid_player, player_destroyer)
+	update_ship_position(grid_player, player_carrier)
+	draw_grid(grid_player)
 	# print "right"
 
 def select():
@@ -253,6 +273,11 @@ def show_scene_setup():
 
 	grid_player = make_grid(10, 10)
 	grid_enemy = make_grid(10, 10)
+
+	update_ship_position(grid_player, player_sub)
+	update_ship_position(grid_player, player_destroyer)
+	update_ship_position(grid_player, player_carrier)
+	draw_grid(grid_player)
 
 	setup_active = True
 	while(setup_active):

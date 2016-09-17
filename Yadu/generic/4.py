@@ -1,3 +1,9 @@
-print "Helloooo"
-print "Welcome to this unit!"
-print "Hope you are excited!!"
+'''
+datetime and conditions
+'''
+
+from datetime import datetime
+
+q = raw_input("You have something for me: ")
+
+print datetime.now()

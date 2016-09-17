@@ -1,3 +1,6 @@
+'''
+battleship part - making a grid, getting an alphabet list
+'''
 
 def make_grid(xcount, ycount, char = "~"):
 	''' make ycount number of lists with xcount of char in them - X x Y grid '''

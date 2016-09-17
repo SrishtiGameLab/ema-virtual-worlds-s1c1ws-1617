@@ -1,3 +1,7 @@
+'''
+try - except infinite loop with while
+'''
+
 choice = 0
 
 while True:

@@ -1,4 +1,6 @@
-	
+'''
+random module
+'''	
 from random import Random
 
 r = Random()

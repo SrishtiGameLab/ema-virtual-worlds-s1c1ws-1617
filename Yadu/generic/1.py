@@ -1,7 +1,11 @@
+'''
+datetime and conditions
+'''
+
 from datetime import datetime
 
 now = datetime.now()
-i = raw_input("what do you want? ")
+i = raw_input("what do you want? (date or time): ")
 
 if i.lower() == "time":
 	print "The time is %s:%s" % (now.hour, now.minute)

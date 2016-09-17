@@ -1,3 +1,7 @@
+'''
+strings
+'''
+
 my_fname = "Yadu"
 my_lname = "Rajiv"
 

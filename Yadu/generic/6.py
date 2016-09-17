@@ -1,3 +1,7 @@
+'''
+math operations
+'''
+
 a = 42
 b = 5
 

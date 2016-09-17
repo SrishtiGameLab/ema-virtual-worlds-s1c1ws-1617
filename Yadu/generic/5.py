@@ -1,3 +1,8 @@
+'''
+vars and printing
+'''
+
+
 # this stores an int
 my_int = 10
 

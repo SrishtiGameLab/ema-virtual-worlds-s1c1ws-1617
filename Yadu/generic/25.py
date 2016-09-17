@@ -1,3 +1,7 @@
+'''
+battleship part - using getch in an infinite while loop for input - callbacks - esc key to quit
+'''
+
 from msvcrt import getch, getche
 
 isRunning = True

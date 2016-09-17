@@ -1,3 +1,6 @@
+'''
+lists - loops, create, append, pop
+'''
 
 my_units = ["games", "viscom", "banana"]
 

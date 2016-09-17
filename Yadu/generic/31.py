@@ -1,3 +1,7 @@
+'''
+mutliple classes in a list
+'''
+
 class PirateNameGenerator(object):
 	"""docstring for PirateNameGenerator"""
 

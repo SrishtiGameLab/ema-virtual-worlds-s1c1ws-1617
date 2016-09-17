@@ -1,3 +1,6 @@
+'''
+animals class - used in 30_classes.py
+'''
 class Animal(object):
 	voice = ""
 	def __init__(self):

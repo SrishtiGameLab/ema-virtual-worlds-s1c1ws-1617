@@ -1,4 +1,6 @@
-
+'''
+try - except examples
+'''
 
 
 while True:

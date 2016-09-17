@@ -1,3 +1,7 @@
+'''
+classes
+'''
+
 class Animal(object):
 	voice = ""
 	def __init__(self):

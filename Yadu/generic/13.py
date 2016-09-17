@@ -1,3 +1,6 @@
+'''
+comparison examples
+'''
 import time
 
 a = float(raw_input("gimme a number: "))

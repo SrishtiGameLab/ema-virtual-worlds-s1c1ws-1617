@@ -1,3 +1,6 @@
+'''
+pirate name generator - used in 29_classes.py
+'''
 # eg: "Yadu Rajiv"
 # Source - https://en.wikipedia.org/wiki/List_of_fictional_pirates
 # rule 1 - take second alphabet of frist name and select the first name list - eg: a_fname

@@ -1,15 +1,10 @@
-def super_fun():
-	print "this is super fun!!"
-
-def not_fun():
-	print "this is boring!! let me out of hear!!"
-
-
+'''
+functions calling functions
+'''
 
 my_name = "Yadu Rajiv"
 
-# print len(my_name)
-
+print len(my_name)
 
 '''
 def square_me(num):
@@ -20,8 +15,8 @@ def square_me(num):
 def square_me(num):
 	return num ** 2
 
-#print square_me(len(my_name))
-#print square_me(5)
+print square_me(len(my_name))
+print square_me(5)
 
 def mul(val1, val2):
 	return val1 * val2
